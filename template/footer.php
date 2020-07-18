@@ -5,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-3">
-                    <img src="img/logo.jpg" alt="footer" width="80" height="80">
+                    <img src="img/logo.png" alt="footer" width="180" height="150">
                 </div>
                 <div class="col-sm-6">
                     <h3><b style="color: #1E90FF;">Indry</b><i
